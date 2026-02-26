@@ -1,4 +1,4 @@
-﻿name: OWS News Android Build And Release
+name: OWS News Android Build And Release
 
 on:
   workflow_dispatch:
